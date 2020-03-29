@@ -1,0 +1,2 @@
+rootProject.name='Gotel Admin'
+include ':app'
